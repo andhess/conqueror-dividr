@@ -7,8 +7,6 @@ Below is the writeup that I turned in with the lab.
 
 Divide and Conquer Algorithm Solution
 
-Andrew Hess
-413773
 
 About:
 This lab will take in a set of points and return the closest of the 2 plus the distance between them by using 2 different methods.
